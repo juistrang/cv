@@ -22,7 +22,7 @@ Bangalore, India | +91-9900923106 | Open to relocate (Bangkok / SEA)
 
 ## CORE SKILLS
 
-- Localization & Translation (English ↔ Vietnamese)
+- Localization & Translation (English - Vietnamese)
 - Press Release & Business Content Translation
 - Interpretation & Cross-Cultural Communication
 - Content Localization & Linguistic Quality Review
