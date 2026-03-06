@@ -9,7 +9,7 @@ Vietnamese Language Specialist
 <div id="webaddress">
 <a href="mailto:juliatrangdang@gmail.com">juliatrangdang@gmail.com</a> |
 <a href="https://www.linkedin.com/in/trang-dang-4b9307370">LinkedIn</a> |
-Bangalore, India | +91-9900923106 | Open to relocate (Bangkok / SEA)
+Bangalore, India | +91-9900923106 | Open to relocate (Bangkok/SEA)
 </div>
 
 
@@ -45,6 +45,7 @@ Credit to Cash Specialist (Vietnam Market)
 - Provide insights into Vietnamese customer behavior and market practices
 - Localization perspective for multilingual communication in financial and risk credit settings
 
+
 `Aug 2021 – Aug 2023`
 
 __Consulate General of India – Ho Chi Minh City__  
@@ -57,6 +58,7 @@ Assistant - Trade & Tourism Promotion
 - Recruited and coordinated freelance contributors for event project deliverables, reviewing outputs and ensuring quality standards and deadlines
 - Conducted research on market sectors and prepared briefing notes for diplomatic and business engagements
 - Supported cross-cultural communication between Vietnamese stakeholders and international partners
+
 
 `2017 – 2018`
 
@@ -83,7 +85,7 @@ Bachelor of Arts – Oriental Studies
 ## AWARDS
 
 `2018`
-Government of India ICCR Scholarship (Full Scholarship)
+Government of India ICCR Scholarship (Full Scholarship) <br>
 Academic Recognition – Pune Union of Working Journalists
 
 `2015`
