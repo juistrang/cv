@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Trang Dang's CV
+title: Trang Thao Dang
 ---
 # TRANG THAO DANG
--
-Vietnamese Language Expert
+
+Vietnamese Language Specialist
 
 <div id="webaddress">
-<a>juliatrangdang@gmail.com</a>
-<!-- | <a href="www.linkedin.com/in/trang-dang-4b9307370"> My linkedIn </a> -->
-  <a>| Bangalore, India | +91-9900923106 (Whatsapp) | Open to relocate (Bangkok/SEA)</a>
+<a href="mailto:juliatrangdang@gmail.com">juliatrangdang@gmail.com</a> |
+<a href="https://www.linkedin.com/in/trang-dang-4b9307370">LinkedIn</a> |
+Bangalore, India | +91-9900923106 | Open to relocate (Bangkok / SEA)
 </div>
 
 
@@ -31,10 +31,10 @@ Vietnamese Language Expert
 - Market Research & Partnership Development
 - Excel, HTML, CSS, Github pages
 
-## EXPERIENCES
+## PROFESSIONAL EXPERIENCE
 
 `Feb 2024 - Present`
-__Cargill Inc,- Bangalore, India__ | Credit to Cash Specialist (Vietnam Market)
+__Cargill Inc - Bangalore, India__ | Credit to Cash Specialist (Vietnam Market)
 
 - Support Vietnam market operations for a portfolio of approximately USD 6.8 million through bilingual communication between regional teams and local stakeholders
 - Analyzed Vietnam market data and customers' behavior using Excel to generate operational insights and reporting
@@ -87,8 +87,15 @@ USSH Research Award
 - Github Pages
 - Microsoft Office Suite
 - SAP
-- Understanding of Vietnamese linguistic nuances and cultural context to ensure natural localization rather than literal translation.
+- Localization awareness for Vietnamese linguistic and cultural nuances
 
+## LOCALIZATION INTERESTS
+
+- English → Vietnamese digital content localization
+- Travel and hospitality content adaptation
+- Linguistic quality review and cultural adaptation
+- Vietnamese user experience optimization
+  
 ## LANGUAGES
 
 - Vietnamese – Native
@@ -96,16 +103,19 @@ USSH Research Award
 
 ## MOTIVATION LETTER
 
-- Dear Hiring Team,
--
-- I am writing to express my interest in the Language Expert – Vietnamese position at Agoda in Bangkok. As a native Vietnamese speaker with professional experience in translation, interpretation, and cross-cultural communication, I am excited about the opportunity to contribute to high-quality Vietnamese localization and user experience across Agoda’s products.
-- During my time at the Consulate General of India in Ho Chi Minh City, I provided English–Vietnamese interpretation and translation support for official meetings, trade delegations, and diplomatic engagements. I also translated press materials and official communications, ensuring linguistic accuracy and cultural relevance across languages. In addition, I supported the coordination of trade and tourism promotion events and worked closely with travel agencies organizing delegations across Vietnam. This experience provided valuable insights into the Vietnamese travel market and traveler behavior, which I believe can contribute to more culturally relevant and effective localization for Vietnamese users.
-- Currently, at Cargill, I work with data and market insights related to the Vietnam portfolio, analyzing customer behavior and preparing structured reports using Excel. This experience allows me to bring a data-informed perspective when reviewing localized content, identifying inconsistencies, and improving communication effectiveness for Vietnamese audiences.
-- I am particularly interested in localization and digital content. With familiarity in basic HTML/CSS and content structuring, I understand how language integrates with product interfaces and online platforms. I would be excited to contribute linguistic insights, support translation quality, and collaborate with internal teams and freelance translators to strengthen Vietnamese localization across Agoda’s platform.
-- Thank you very much for your time and consideration. I look forward to the opportunity to further discuss how I can contribute to Agoda’s localization efforts and growth in the Vietnamese market.
-- 
-- Kind regards,
-- Trang Dang
+Dear Hiring Team,
+I am writing to express my interest in the Language Expert – Vietnamese position at Agoda in Bangkok. As a native Vietnamese speaker with professional experience in translation, interpretation, and cross-cultural communication, I am excited about the opportunity to contribute to high-quality Vietnamese localization and user experience across Agoda’s products.
+
+During my time at the Consulate General of India in Ho Chi Minh City, I provided English–Vietnamese interpretation and translation support for official meetings, trade delegations, and diplomatic engagements. I also translated press materials and official communications, ensuring linguistic accuracy and cultural relevance across languages. In addition, I supported the coordination of trade and tourism promotion events and worked closely with travel agencies organizing delegations across Vietnam. This experience provided valuable insights into the Vietnamese travel market and traveler behavior, which I believe can contribute to more culturally relevant and effective localization for Vietnamese users.
+
+Currently, at Cargill, I work with data and market insights related to the Vietnam portfolio, analyzing customer behavior and preparing structured reports using Excel. This experience allows me to bring a data-informed perspective when reviewing localized content, identifying inconsistencies, and improving communication effectiveness for Vietnamese audiences.
+
+I am particularly interested in localization and digital content. With familiarity in basic HTML/CSS and content structuring, I understand how language integrates with product interfaces and online platforms. I would be excited to contribute linguistic insights, support translation quality, and collaborate with internal teams and freelance translators to strengthen Vietnamese localization across Agoda’s platform.
+
+Thank you very much for your time and consideration. I look forward to the opportunity to further discuss how I can contribute to Agoda’s localization efforts and growth in the Vietnamese market.
+
+Kind regards,
+Trang Dang
 
 <!-- ### Footer
 
