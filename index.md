@@ -47,8 +47,8 @@ Credit to Cash Specialist (Vietnam Market)
 
 `Aug 2021 – Aug 2023`
 
-__Consulate General of India - Ho Chi Minh City, Vietnam__ 
-Assistant – Trade & Tourism Promotion
+__Consulate General of India – Ho Chi Minh City__  
+Assistant - Trade & Tourism Promotion
 
 - Provided interpretation and bilingual communication support during diplomatic official meetings, trade delegations, and government visits
 - Translated official communications, press materials, and programme documents
@@ -60,7 +60,7 @@ Assistant – Trade & Tourism Promotion
 
 `2017 – 2018`
 
-__TQPR Vietnam – Ho Chi Minh City__ 
+__TQPR Vietnam – Ho Chi Minh City__  
 Account Associate – International Client Support
 
 - Supported international clients with communication, reporting, and project coordination as their retainers in Vietnam
@@ -69,13 +69,15 @@ Account Associate – International Client Support
 
 ## EDUCATION
 
-`2018 - 2021`
+2018 – 2021
 
-Master of Journalism & Mass Communication | Savitribai Phule Pune University,India
+Savitribai Phule Pune University – India
+Master of Journalism & Mass Communication
 
-`2012 - 2017`
+2012 – 2017
 
-Bachelor of Arts - Oriental Studies | Ho Chi Minh City University of Social Sciences & Humanities - USSH, Vietnam
+Ho Chi Minh City University of Social Sciences & Humanities – Vietnam
+Bachelor of Arts – Oriental Studies
 
 ## AWARDS
 
