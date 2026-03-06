@@ -71,13 +71,11 @@ Account Associate – International Client Support
 
 `2018 - 2021`
 
-Master of Journalism & Mass Communication
-Savitribai Phule Pune University, India
+Master of Journalism & Mass Communication | Savitribai Phule Pune University,India
 
 `2012 - 2017`
 
-Bachelor of Arts - Oriental Studies
-Ho Chi Minh City University of Social Sciences & Humanities - USSH, Vietnam
+Bachelor of Arts - Oriental Studies | Ho Chi Minh City University of Social Sciences & Humanities - USSH, Vietnam
 
 ## AWARDS
 
