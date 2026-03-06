@@ -29,7 +29,7 @@ Bangalore, India | +91-9900923106 | Open to relocate (Bangkok / SEA)
 - Stakeholder & Government Communication
 - Travel & Delegation Coordination
 - Market Research & Partnership Development
-- Excel, HTML, CSS, Github pages
+- Excel, HTML, Github pages
 
 ## PROFESSIONAL EXPERIENCE
 
