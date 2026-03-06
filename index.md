@@ -34,7 +34,9 @@ Bangalore, India | +91-9900923106 | Open to relocate (Bangkok / SEA)
 ## PROFESSIONAL EXPERIENCE
 
 `Feb 2024 - Present`
-__Cargill Inc - Bangalore, India__ | Credit to Cash Specialist (Vietnam Market)
+
+__Cargill Inc – Bangalore, India__  
+Credit to Cash Specialist (Vietnam Market)
 
 - Support Vietnam market operations for a portfolio of approximately USD 6.8 million through bilingual communication between regional teams and local stakeholders
 - Analyzed Vietnam market data and customers' behavior using Excel to generate operational insights and reporting
@@ -44,7 +46,9 @@ __Cargill Inc - Bangalore, India__ | Credit to Cash Specialist (Vietnam Market)
 - Localization perspective for multilingual communication in financial and risk credit settings
 
 `Aug 2021 – Aug 2023`
-__Consulate General of India - Ho Chi Minh City, Vietnam__ | Assistant – Trade & Tourism Promotion
+
+__Consulate General of India - Ho Chi Minh City, Vietnam__ 
+Assistant – Trade & Tourism Promotion
 
 - Provided interpretation and bilingual communication support during diplomatic official meetings, trade delegations, and government visits
 - Translated official communications, press materials, and programme documents
@@ -55,7 +59,9 @@ __Consulate General of India - Ho Chi Minh City, Vietnam__ | Assistant – Trade
 - Supported cross-cultural communication between Vietnamese stakeholders and international partners
 
 `2017 – 2018`
-__TQPR Vietnam – Ho Chi Minh City__ | Account Associate – International Client Support
+
+__TQPR Vietnam – Ho Chi Minh City__ 
+Account Associate – International Client Support
 
 - Supported international clients with communication, reporting, and project coordination as their retainers in Vietnam
 - Assisted in preparing press kits, including press release
