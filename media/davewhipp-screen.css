@@ -50,11 +50,14 @@ table {
 /* end of reset */
 
 body {
-	font-family: Avenir, Verdana, sans-serif;
-	margin: 40px auto;
-	max-width: 800px;
-	line-height: 1.6;
+	font: normal normal 400;
+	font-size: 100%;
+	line-height: 1.5em;
+	/*also written as... font: normal normal 400 100%/1.5em;*/ font-family: Avenir,Verdana,sans-serif;
+	margin-top: 1em;
+	margin-left: 1em;
 }
+
 
 p {
 	
