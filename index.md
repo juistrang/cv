@@ -19,15 +19,14 @@ Skilled in content localization, linguistic quality control, and cross-cultural 
 
 ## Core Skills
 
-Localization & Translation (English ↔ Vietnamese)
-Press Release & Business Content Translation
-Interpretation & Cross-Cultural Communication
-Content Localization & Linguistic Quality Review
-Stakeholder & Government Communication
-Travel & Delegation Coordination
-Market Research & Partnership Development
-Excel Reporting | HTML | CSS
-
+- Localization & Translation (English ↔ Vietnamese)
+- Press Release & Business Content Translation
+- Interpretation & Cross-Cultural Communication
+- Content Localization & Linguistic Quality Review
+- Stakeholder & Government Communication
+- Travel & Delegation Coordination
+- Market Research & Partnership Development
+- Excel Reporting | HTML | CSS
 
 <!--### Research interests
 
