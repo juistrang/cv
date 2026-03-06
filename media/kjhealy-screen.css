@@ -1,7 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
+/* RESET */
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -12,178 +9,138 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:100%;
+	font:inherit;
+	vertical-align:baseline;
 }
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
+	display:block;
 }
 
-/* end of reset */
-
-
-body {
-	font: normal normal 400;
-	font-size: 100%;
-	line-height: 1.5em;
-	/*also written as... font: normal normal 400 100%/1.5em;*/ font-family: Avenir,Verdana,sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
+body{
+	font-family:Avenir, Verdana, sans-serif;
+	line-height:1.6;
+	margin:40px auto;
+	max-width:900px;
+	padding:20px;
+	color:#222;
 }
 
-p {
-	
-	margin-bottom: 0.7em;
-	margin-right: 0;
-	width: 100%;
+/* TEXT */
+
+p{
+	margin-bottom:12px;
+	width:100%;
 }
 
-code {
-	font: normal normal;
-	font-size: 60%;
-	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+/* CODE */
+
+code{
+	font-family:Menlo,monospace;
+	font-size:90%;
+	color:#777;
 }
 
-p code {
-	position: absolute;
-	left: -14%;
+/* LIST */
+
+ul{
+	width:100%;
+	margin-bottom:18px;
 }
 
-
-ul { 
-	width: 100%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+li{
+	margin-bottom:6px;
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
+/* HEADINGS */
 
-li {
-	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
+h1,h2,h3,h4{
+	font-weight:400;
+	font-family:Cousine,Verdana,sans-serif;
 }
 
-li ul {
-	position: relative;
-	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
+h1{
+	font-size:42px;
+	text-align:center;
+	margin-bottom:10px;
 }
 
-h1,h2,h3,h4 {
-	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
-	width: 65%;
+h1 + p{
+	text-align:center;
+	font-style:italic;
+	margin-bottom:20px;
 }
 
-h1 {
-	text-align: left;
-	font-size: 3em;
-	line-height: 1em;
-	position: relative;
-	left: 33%;
+h2{
+	font-size:18px;
+	color:#a00;
+	margin-top:30px;
+	margin-bottom:10px;
+	border-bottom:1px solid #eee;
+	padding-bottom:4px;
 }
 
-h1+p { 
-	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
+h3{
+	font-size:16px;
+	margin-top:10px;
+	margin-bottom:4px;
 }
 
-h2 {
-	font-size: 1.1em;
-	color: #a00;
-	margin-top: 3em;
-	position: relative;
-	top: 1.4em;
-	text-align: right;
-	width: 20%;
+/* LINKS */
+
+a{
+	color:inherit;
+	text-decoration:none;
 }
 
-h3 {
-	font-size: 1em;
-	line-height: 2em; 
-	position: relative;
-	top: 1.7em;
-	text-align: right;
-	width: 20%;
+a:hover{
+	color:#39f;
 }
 
-a {
-	color: inherit;
-	/*text-decoration:none*/
+/* CONTACT */
+
+#webaddress{
+	text-align:center;
+	margin-bottom:25px;
+	color:#777;
+	font-family:Menlo,monospace;
+	font-size:13px;
 }
 
-a:hover {
-	color:#39f
+#webaddress a{
+	text-decoration:none;
 }
 
-#webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 33%;
-	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+/* EMPHASIS */
+
+em{
+	font-style:italic;
+	font-weight:600;
 }
 
-#webaddress a {
-	text-decoration: none;
+strong{
+	font-weight:600;
 }
 
-em {
-	font-weight: bold;
-	font-style: italic;
+/* MOBILE */
+
+@media only screen and (max-width:600px){
+
+body{
+	padding:15px;
 }
 
-strong {
-	font-weight: bold;
+h1{
+	font-size:34px;
 }
 
-#address {
-	display: none;
 }
-
-
-
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
