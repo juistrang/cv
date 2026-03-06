@@ -84,11 +84,11 @@ Bachelor of Arts – Oriental Studies
 
 ## AWARDS
 
-`2018`
+`2018` <br>
 Government of India ICCR Scholarship (Full Scholarship) <br>
 Academic Recognition – Pune Union of Working Journalists
 
-`2015`
+`2015` <br>
 USSH Research Award
 
 ## TECHNICAL SKILLS
