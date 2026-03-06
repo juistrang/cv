@@ -113,7 +113,7 @@ USSH Research Award
 
 Dear Hiring Team,
 
-I am writing to express my interest in the Language Expert – Vietnamese position at Agoda in Bangkok. As a native Vietnamese speaker with professional experience in translation, interpretation, and cross-cultural communication, I am excited about the opportunity to contribute to high-quality Vietnamese localization and user experience across Agoda’s products.
+I am writing to express my interest in the Language Expert - Vietnamese position at Agoda in Bangkok. As a native Vietnamese speaker with professional experience in translation, interpretation, and cross-cultural communication, I am excited about the opportunity to contribute to high-quality Vietnamese localization and user experience across Agoda’s products.
 
 During my time at the Consulate General of India in Ho Chi Minh City, I provided English–Vietnamese interpretation and translation support for official meetings, trade delegations, and diplomatic engagements. I also translated press materials and official communications, ensuring linguistic accuracy and cultural relevance across languages. In addition, I supported the coordination of trade and tourism promotion events and worked closely with travel agencies organizing delegations across Vietnam. This experience provided valuable insights into the Vietnamese travel market and traveler behavior, which I believe can contribute to more culturally relevant and effective localization for Vietnamese users.
 
