@@ -35,28 +35,29 @@ Vietnamese Language Expert
 `Feb 2024 - Present`
 __Cargill Inc,- Bangalore, India__ | Credit to Cash Specialist (Vietnam Market)
 
-- Support Vietnam market operations through bilingual communication between regional teams and local stakeholders
-- Prepare structured reports and analyze customer portfolio data using Excel
+- Support Vietnam market operations for a portfolio of approximately USD 6.8 million through bilingual communication between regional teams and local stakeholders
+- Analyzed Vietnam market data and customers' behavior using Excel to generate operational insights and reporting
 - Coordinate with sales and finance teams to resolve customer issues and improve operational processes
 - Maintain accurate documentation for cross-border financial operations
 - Provide insights into Vietnamese customer behavior and market practices
 - Localization perspective for multilingual communication in financial and risk credit settings
 
 `Aug 2021 – Aug 2023`
-__Consulate General of India - Ho Chi Minh City, Vietnam__ | Assistant – Trade Promotion & Consular Affairs
+__Consulate General of India - Ho Chi Minh City, Vietnam__ | Assistant – Trade & Tourism Promotion
 
 - Provided interpretation and bilingual communication support during diplomatic official meetings, trade delegations, and government visits
 - Translated official communications, press materials, and programme documents
 - Coordinated international trade delegations, business forums, and provincial working visits across Southern Vietnam and in India
-- Organized events promoting bilateral trade, tourism, education, investment cooperation between Vietnam and India
+- Organized promotional activities and business forums to strengthen tourism, trade, and bilateral engagement between Vietnam and Indian partners.
+- Recruited and coordinated freelance contributors for event project deliverables, reviewing outputs and ensuring quality standards and deadlines
 - Conducted research on market sectors and prepared briefing notes for diplomatic and business engagements
 - Supported cross-cultural communication between Vietnamese stakeholders and international partners
 
 `2017 – 2018`
 __TQPR Vietnam – Ho Chi Minh City__ | Account Associate – International Client Support
 
-- Supported international clients with communication, reporting, and project coordination as theirs retainer in Vietnam
-- Assisted in preparing marketing and communication materials as press kits
+- Supported international clients with communication, reporting, and project coordination as their retainers in Vietnam
+- Assisted in preparing press kits, including press release
 - Coordinated event logistics and client engagement activities
 
 ## EDUCATION
@@ -95,16 +96,15 @@ USSH Research Award
 ## MOTIVATION LETTER
 
 - Dear Hiring Team,
-- 
-- I am excited to apply for the Language Expert – Vietnamese position at Agoda in Bangkok.
-- As a native Vietnamese speaker with professional experience in translation, interpretation, and cross-cultural communication, I have worked extensively in international environments where linguistic accuracy and cultural nuance are essential.
-- During my time at the Consulate General of India in Ho Chi Minh City, I provided English–Vietnamese interpretation during diplomatic meetings and translated press releases and official communications. This experience strengthened my ability to deliver clear, culturally appropriate messaging across languages.
-- Currently working with the Vietnam market at Cargill in Bangalore, I collaborate with regional teams and stakeholders through bilingual communication and structured reporting. This role has strengthened my understanding of cross-border communication and the importance of localized messaging for different markets.
-- I am particularly interested in Agoda’s focus on localization and improving user experience for global travelers. I would be excited to contribute my Vietnamese linguistic expertise and cross-cultural communication skills to support high-quality Vietnamese localization on Agoda’s platform.
-- Thank you very much for your time and consideration. I look forward to the opportunity to contribute to Agoda’s continued growth in the Vietnamese market.
+-
+- I am writing to express my interest in the Language Expert – Vietnamese position at Agoda in Bangkok. As a native Vietnamese speaker with professional experience in translation, interpretation, and cross-cultural communication, I am excited about the opportunity to contribute to high-quality Vietnamese localization and user experience across Agoda’s products.
+- During my time at the Consulate General of India in Ho Chi Minh City, I provided English–Vietnamese interpretation and translation support for official meetings, trade delegations, and diplomatic engagements. I also translated press materials and official communications, ensuring linguistic accuracy and cultural relevance across languages. In addition, I supported the coordination of trade and tourism promotion events and worked closely with travel agencies organizing delegations across Vietnam. This experience provided valuable insights into the Vietnamese travel market and traveler behavior, which I believe can contribute to more culturally relevant and effective localization for Vietnamese users.
+- Currently, at Cargill, I work with data and market insights related to the Vietnam portfolio, analyzing customer behavior and preparing structured reports using Excel. This experience allows me to bring a data-informed perspective when reviewing localized content, identifying inconsistencies, and improving communication effectiveness for Vietnamese audiences.
+- I am particularly interested in localization and digital content. With familiarity in basic HTML/CSS and content structuring, I understand how language integrates with product interfaces and online platforms. I would be excited to contribute linguistic insights, support translation quality, and collaborate with internal teams and freelance translators to strengthen Vietnamese localization across Agoda’s platform.
+- Thank you very much for your time and consideration. I look forward to the opportunity to further discuss how I can contribute to Agoda’s localization efforts and growth in the Vietnamese market.
 - 
 - Kind regards,
-- Trang
+- Trang Dang
 
 <!-- ### Footer
 
