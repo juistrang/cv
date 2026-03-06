@@ -63,10 +63,11 @@ h1{
 	letter-spacing:1px;
 }
 
-h1 + p{
-	text-align:center;
-	font-style:italic;
-	margin-bottom:20px;
+h1+p { 
+	font-style: italic;
+	font-size: 110%;
+	text-align: center;
+	width: 100%;
 }
 
 h2{
