@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Trang Thao Dang
+title: Trang Thao Dang 
 ---
 # TRANG THAO DANG
 
