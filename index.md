@@ -69,14 +69,15 @@ Account Associate – International Client Support
 
 ## EDUCATION
 
-2018 – 2021
+`2018 – 2021` <br>
 
-Savitribai Phule Pune University – India
-Master of Journalism & Mass Communication
+__Savitribai Phule Pune University – India__ <br>
+Master of Journalism & Mass Communication <br><br>
 
-2012 – 2017
 
-Ho Chi Minh City University of Social Sciences & Humanities – Vietnam
+`2012 – 2017` <br>
+
+__Ho Chi Minh City University of Social Sciences & Humanities – Vietnam__ <br>
 Bachelor of Arts – Oriental Studies
 
 ## AWARDS
