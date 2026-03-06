@@ -3,6 +3,7 @@ layout: cv
 title: Trang Dang's CV
 ---
 # TRANG THAO DANG
+-
 Vietnamese Language Expert
 
 <div id="webaddress">
