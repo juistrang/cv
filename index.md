@@ -110,7 +110,7 @@ USSH Research Award
 - Vietnamese – Native
 - English – Professional Working Proficiency
 
-## MOTIVATION LETTER FOR POSITION --LANGUAGE EXPERT – VIETNAMESE (BANGKOK-BASED)--
+## MOTIVATION LETTER FOR POSITION --LANGUAGE EXPERT – VIETNAMESE (BANGKOK BASED)--
 
 Dear Hiring Team,
 
