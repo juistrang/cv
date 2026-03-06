@@ -13,7 +13,7 @@ Bangalore, India | +91-9900923106 | Open to relocate (Bangkok / SEA)
 </div>
 
 
-## LANGUAGE SPECIALIST
+## PROFESSIONAL SUMMARY
 
 - Native Vietnamese linguist with 5+ years of experience in bilingual communication, translation, and cross-cultural coordination within international environments.
 - Experienced in English–Vietnamese translation of press releases, official communications, and business materials, as well as interpretation during diplomatic meetings, promotion events and trade delegations.
@@ -70,12 +70,14 @@ Account Associate – International Client Support
 ## EDUCATION
 
 `2018 - 2021`
-__Master of Journalism & Mass Communication__ 
-- Savitribai Phule Pune University, India
+
+Master of Journalism & Mass Communication
+Savitribai Phule Pune University, India
 
 `2012 - 2017`
-__Bachelor of Arts – Oriental Studies__
-- Ho Chi Minh City University of Social Sciences & Humanities - USSH, Vietnam
+
+Bachelor of Arts - Oriental Studies
+Ho Chi Minh City University of Social Sciences & Humanities - USSH, Vietnam
 
 ## AWARDS
 
