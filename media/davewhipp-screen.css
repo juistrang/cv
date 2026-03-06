@@ -49,24 +49,18 @@ table {
 
 /* end of reset */
 
-
-
 body {
-	font: normal normal 400;
-	font-size: 100%;
-	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
+	font-family: Avenir, Verdana, sans-serif;
+	margin: 40px auto;
+	max-width: 800px;
+	line-height: 1.6;
 }
 
 p {
-	position: relative;
-	left: 25%;
+	
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 100%;
 }
 
 code {
@@ -85,9 +79,8 @@ p code {
 
 
 ul {
-	position: relative;
-	left: 25%;
-	width: 75%;
+
+	width: 100%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
