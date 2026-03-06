@@ -4,7 +4,7 @@ title: Trang Thao Dang
 ---
 # TRANG THAO DANG
 
-Vietnamese Language Specialist
+Vietnamese Linguist & Localization Specialist
 
 <div id="webaddress">
 <a href="mailto:juliatrangdang@gmail.com">juliatrangdang@gmail.com</a> |
