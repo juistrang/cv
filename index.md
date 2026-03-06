@@ -71,13 +71,13 @@ Account Associate – International Client Support
 
 `2018 – 2021` <br>
 
-__Savitribai Phule Pune University – India__ <br>
+Savitribai Phule Pune University – India <br>
 Master of Journalism & Mass Communication <br><br>
 
 
 `2012 – 2017` <br>
 
-__Ho Chi Minh City University of Social Sciences & Humanities – Vietnam__ <br>
+Ho Chi Minh City University of Social Sciences & Humanities – Vietnam <br>
 Bachelor of Arts – Oriental Studies
 
 ## AWARDS
