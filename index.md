@@ -16,7 +16,7 @@ Bangalore, India | +91-9900923106 | Open to relocate (Bangkok/SEA)
 ## PROFESSIONAL SUMMARY
 
 - Native Vietnamese linguist with 5+ years of experience in bilingual communication, translation, and cross-cultural coordination within international environments.
-- Experienced in English–Vietnamese translation of press releases, official communications, and business materials, as well as interpretation during diplomatic meetings, promotion events and trade delegations.
+- Experienced in English↔Vietnamese translation of press releases, official communications, and business materials, as well as interpretation during diplomatic meetings, promotion events and trade delegations.
 - Strong interest in localization and digital content, with technical familiarity in HTML/CSS and Excel for content structuring and analysis.
 - Comfortable working in multicultural teams and contributing linguistic insights to improve Vietnamese user experience and market relevance.
 
