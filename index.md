@@ -79,8 +79,8 @@ Master of Journalism & Mass Communication <br>
 
 `2012 – 2017` <br>
 
-Ho Chi Minh City University of Social Sciences & Humanities – Vietnam <br>
-Bachelor of Arts – Oriental Studies
+Ho Chi Minh City University of Social Sciences & Humanities (USSH) – Vietnam <br>
+Bachelor of Arts – Oriental Studies (Indian Studies)
 
 ## AWARDS
 
