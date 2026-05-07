@@ -51,7 +51,7 @@ Vietnamese Language Expert-cum Credit to Cash Specialist (Vietnam Market)
 
 `Aug 2021 – Aug 2023`
 
-__Consulate General of India – Ho Chi Minh City__  
+__Consulate General of India – Ho Chi Minh City, Vietnam__  
 Assistant - Trade & Tourism Promotion
 
 - Provided interpretation and bilingual communication support during diplomatic meetings, trade delegations, business forums, and government visits
@@ -64,7 +64,7 @@ Assistant - Trade & Tourism Promotion
 
 `2017 – 2018`
 
-__TQPR Vietnam – Ho Chi Minh City__  
+__TQPR Vietnam – Ho Chi Minh City, Vietnam__  
 Account Associate – International Client Support
 
 - Supported international clients with communication, reporting, and project coordination activities in Vietnam
