@@ -9,65 +9,68 @@ Vietnamese Linguist & Localization Specialist
 <div id="webaddress">
 <a href="mailto:juliatrangdang@gmail.com">juliatrangdang@gmail.com</a> |
 <a href="https://www.linkedin.com/in/trang-dang-4b9307370">LinkedIn</a> |
-Bangalore, India | +91-9900923106 | Open to relocate (Bangkok/SEA)
+Bangalore, India | +91-9900923106 | Open to relocate
 </div>
 
 
 ## PROFESSIONAL SUMMARY
 
-- Native Vietnamese linguist with 5+ years of experience in bilingual communication, translation, and cross-cultural coordination within international environments.
-- Experienced in English<=>Vietnamese translation of press releases, official communications, and business materials, as well as interpretation during diplomatic meetings, promotion events and trade delegations.
-- Strong interest in localization and digital content, with technical familiarity in HTML/CSS and Excel for content structuring and analysis.
-- Comfortable working in multicultural teams and contributing linguistic insights to improve Vietnamese user experience and market relevance.
+- Vietnamese native linguist and cross-cultural communication specialist with 5+ years of experience in bilingual communication, translation, content adaptation, and stakeholder coordination across international and multicultural environments. Experienced in English ↔ Vietnamese translation of press releases, official communications, business materials, and event-related content, as well as interpretation during diplomatic meetings, trade delegations, and international business engagements.
+  
+- Skilled in content localization, linguistic review, and cultural adaptation for Vietnamese audiences, with strong awareness of local communication styles, user expectations, and market relevance. Familiar with AI-assisted content workflows, multilingual communication environments, and localization quality standards. Comfortable collaborating with regional and global teams to improve content clarity, linguistic accuracy, and user experience.
 
 ## CORE SKILLS
 
-- Localization & Translation (English <=> Vietnamese)
+- English ↔ Vietnamese Translation & Localization
+- Linguistic Quality Review & Proofreading
+- Content Adaptation for Vietnamese Market
+- Cross-cultural Communication & Interpretation
 - Press Release & Business Content Translation
-- Interpretation & Cross-Cultural Communication
-- Content Localization & Linguistic Quality Review
 - Stakeholder & Government Communication
-- Travel & Delegation Coordination
-- Market Research & Partnership Development
-- Excel, HTML, Github pages
+- Market Research & Cultural Insights
+- Delegation & Event Coordination
+- Excel Reporting & Data Structuring
+- HTML/CSS & GitHub Pages
+- Multilingual Communication Support
+- AI-assisted Content Editing Awareness
 
 ## PROFESSIONAL EXPERIENCE
 
-`Feb 2024 - Present`
+`Feb 2024 - April 2026`
 
 __Cargill Inc – Bangalore, India__  
-Credit to Cash Specialist (Vietnam Market)
+Vietnamese Language Expert-cum Credit to Cash Specialist (Vietnam Market)
 
-- Support Vietnam market operations for a portfolio of approximately USD 6.8 million through bilingual communication between regional teams and local stakeholders
-- Analyzed Vietnam market data and customers' behavior using Excel to generate operational insights and reporting
-- Coordinate with sales and finance teams to resolve customer issues and improve operational processes
-- Maintain accurate documentation for cross-border financial operations
-- Provide insights into Vietnamese customer behavior and market practices
-- Localization perspective for multilingual communication in financial and risk credit settings
-
+- Support Vietnam market operations for a portfolio of approximately USD 6.8 million through bilingual communication between regional teams and Vietnamese stakeholders
+- Coordinate English ↔ Vietnamese communication across finance, operations, and customer support functions
+- Analyze Vietnam market data and customer behavior using Excel to support reporting and operational insights
+- Collaborate with sales and finance teams to resolve customer issues and improve process efficiency
+- Maintain accurate documentation for cross-border operational processes and multilingual communication
+- Provide Vietnamese market and communication insights to support culturally appropriate customer engagement
+- Contribute localization awareness in multilingual business communication and documentation review
 
 `Aug 2021 – Aug 2023`
 
 __Consulate General of India – Ho Chi Minh City__  
 Assistant - Trade & Tourism Promotion
 
-- Provided interpretation and bilingual communication support during diplomatic official meetings, trade delegations, and government visits
-- Translated official communications, press materials, and programme documents
-- Coordinated international trade delegations, business forums, and provincial working visits across Southern Vietnam and in India
-- Organized promotional activities and business forums to strengthen tourism, trade, and bilateral engagement between Vietnam and Indian partners.
-- Recruited and coordinated freelance contributors for event project deliverables, reviewing outputs and ensuring quality standards and deadlines
-- Conducted research on market sectors and prepared briefing notes for diplomatic and business engagements
-- Supported cross-cultural communication between Vietnamese stakeholders and international partners
-
+- Provided interpretation and bilingual communication support during diplomatic meetings, trade delegations, business forums, and government visits
+- Translated official communications, press releases, briefing materials, and programme documents between English and Vietnamese
+- Coordinated international delegations, promotional events, and cross-border business engagement activities across Vietnam and India
+- Conducted market and sector research to prepare briefing notes and communication materials for diplomatic and business initiatives
+- Supported multilingual stakeholder communication between Vietnamese organizations and international partners
+- Recruited and coordinated freelance contributors for event deliverables, reviewing outputs to ensure quality, consistency, and deadline compliance
+- Assisted in adapting communication materials for Vietnamese audiences and local cultural context
 
 `2017 – 2018`
 
 __TQPR Vietnam – Ho Chi Minh City__  
 Account Associate – International Client Support
 
-- Supported international clients with communication, reporting, and project coordination as their retainers in Vietnam
-- Assisted in preparing press kits, including press release
-- Coordinated event logistics and client engagement activities
+- Supported international clients with communication, reporting, and project coordination activities in Vietnam
+- Assisted in preparing press kits, media materials, and press releases for external communications
+- Coordinated client engagement activities and event logistics across multicultural working environments
+- Supported bilingual communication between Vietnamese stakeholders and international clients
 
 ## EDUCATION
 
@@ -75,7 +78,6 @@ Account Associate – International Client Support
 
 Savitribai Phule Pune University – India <br>
 Master of Journalism & Mass Communication <br>
-
 
 `2012 – 2017` <br>
 
@@ -93,44 +95,49 @@ USSH Research Award
 
 ## TECHNICAL SKILLS
 
-- Excel (Formulas, Lookups, Reporting)
-- HTML/CSS
-- Github Pages
-- Microsoft Office Suite
+- Microsoft Excel (Formulas, Lookups, Reporting)
 - SAP
-- Localization awareness for Vietnamese linguistic and cultural nuances
+- HTML/CSS
+- GitHub Pages
+- Microsoft Office Suite
+- Content Structuring & Documentation
+- Localization Awareness for Vietnamese Linguistic & Cultural Nuances
 
 ## LOCALIZATION INTERESTS
 
-- English → Vietnamese digital content localization
-- Travel and hospitality content adaptation
-- Linguistic quality review and cultural adaptation
-- Vietnamese user experience optimization
+- English → Vietnamese Game & Digital Content Localization
+- Linguistic Quality Assurance (LQA)
+- AI-generated Content Review & Editing
+- Vietnamese User Experience Optimization
+- Cultural Adaptation for Vietnamese Market
+- Travel, Entertainment & Lifestyle Content Localization
   
 ## LANGUAGES
 
 - Vietnamese – Native
 - English – Professional Working Proficiency
 
-## MOTIVATION LETTER FOR POSITION – LANGUAGE EXPERT – VIETNAMESE (BANGKOK BASED)
+## MOTIVATION LETTER FOR POSITION – TEG - Game Localization Linguist Vietnam
 
 Dear Hiring Team,
 
-I am writing to express my interest in the Language Expert – Vietnamese position at Agoda in Bangkok. As a native Vietnamese speaker with professional experience in translation, interpretation, and cross–cultural communication, I am excited about the opportunity to contribute to high–quality Vietnamese localization and user experience across Agoda’s products.
+I am writing to express my interest in the TEG – Game Localization Linguist (Vietnamese) position at Tencent.
+As a native Vietnamese professional with over five years of experience in bilingual communication, translation, and cross-cultural coordination within international environments, I am excited about the opportunity to contribute my linguistic and cultural expertise to Tencent’s global gaming ecosystem.
 
-During my time at the Consulate General of India in Ho Chi Minh City, I provided English<=>Vietnamese interpretation and translation support for official meetings, trade delegations, and diplomatic engagements. I also translated press materials and official communications, ensuring linguistic accuracy and cultural relevance across languages. In addition, I supported the coordination of trade and tourism promotion events and worked closely with travel agencies organizing delegations across Vietnam. This experience provided valuable insights into the Vietnamese travel market and traveler behavior, which I believe can contribute to more culturally relevant and effective localization for Vietnamese users.
+Throughout my professional experience across multinational and diplomatic environments, I have worked extensively with English ↔ Vietnamese communication, including translation of press materials, official documents, business content, and multilingual stakeholder coordination. My background has strengthened my ability to ensure communication is not only linguistically accurate, but also culturally appropriate and natural for Vietnamese audiences.
 
-Currently, at Cargill, I work with data and market insights related to the Vietnam portfolio, analyzing customer behavior and preparing structured reports using Excel. This experience allows me to bring a data-informed perspective when reviewing localized content, identifying inconsistencies, and improving communication effectiveness for Vietnamese audiences.
+In my current role supporting the Vietnam market at Cargill India, I work closely with regional teams and Vietnamese stakeholders in a multilingual environment, where attention to communication clarity, local market understanding, and detail-oriented review are essential. Previously, at the Consulate General of India in Ho Chi Minh City, I supported diplomatic meetings, trade delegations, and international events through interpretation, translation, and cross-cultural communication support.
 
-I am particularly interested in localization and digital content. With familiarity in basic HTML/CSS and content structuring, I understand how language integrates with product interfaces and online platforms. I would be excited to contribute linguistic insights, support translation quality, and collaborate with internal teams and freelance translators to strengthen Vietnamese localization across Agoda’s platform.
+I am particularly interested in localization because I enjoy adapting content for local audiences and improving user experience through language and cultural nuance. I am highly interested in AI-assisted content workflows, linguistic quality review, and digital content localization. I am also eager to continue learning and developing professionally within the gaming and localization industry.
+With strong adaptability, collaborative working style, and passion for language and cultural communication, I would be honored to contribute to Tencent’s localization efforts for Vietnamese users and players.
 
-Thank you very much for your time and consideration. I look forward to the opportunity to further discuss how I can contribute to Agoda’s localization efforts and growth in the Vietnamese market.
+Thank you very much for your time and consideration. I look forward to the opportunity to further discuss my qualifications.
 
 Kind regards,<br>
 Trang Dang
 
 <!-- ### Footer
 
-Last updated: March 2026 -->
+Last updated: May 2026 -->
 
 
